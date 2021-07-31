@@ -16,7 +16,7 @@ I'm studying Animal Science(Food Science) in South West University (China). Lear
 
 I have a toy-level project [kjBot](https://github.com/kjBot-Dev) written in php.
 
-Beyond that it's translating, especially for indie free softwares (or games). There's no much money for me to sponsor the developers, but helping them bring these to more users/players is the best I can do. It also improve my skills so I'm enjoying this very much.
+Beyond that it's translating, especially for indie free softwares (or games). There's no much money for me to sponsor the developers, but helping them bring these to more users/players is the best I can do. It also improves my skill(s) and I'm enjoying this.
 
 Here's a list of softwares/games that I joined the translation team:
 - 🎮[ppy - osu!](https://osu.ppy.sh/)
