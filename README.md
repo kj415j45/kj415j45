@@ -12,7 +12,7 @@ I'm studying Animal Science(Food Science) in South West University (China). Lear
 
 **Want to know more? Join my telegram channel [@kjMerge](https://t.me/kjMerge) now.**
 
-## What did you do? 📝
+## What I have done yet? 📝
 
 I have a toy-level project [kjBot](https://github.com/kjBot-Dev) written in php.
 
@@ -26,7 +26,7 @@ Here's a list of softwares/games that I joined the translation team:
 - 🎮[DexterHuang - CyberCode Online](https://cybercodeonline.com/)
 - 🎮[Jamie Parish - The Wanderer](https://www.jamiepparish.com/unityprojects)
 
-## Support me
+## Support me 💰
 
 Alipay: <img src="https://user-images.githubusercontent.com/18349191/76498749-7204ed00-6478-11ea-9a7f-95c77d100790.jpg" width="100" height="100" />  
 Stellar XLM: `kj415j45*keybase.io` or `GC2I2J3VMQ7EHUIZRUJFUV4FPIEU6EZOYJPQJ2KEEGEA5XL3IJGF43CQ`
