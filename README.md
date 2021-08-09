@@ -12,7 +12,7 @@ I'm studying Animal Science(Food Science) in South West University (China). Lear
 
 **Want to know more? Join my telegram channel [@kjMerge](https://t.me/kjMerge) now.**
 
-## What I have done yet? 📝
+## What have I done yet? 📝
 
 I have a toy-level project [kjBot](https://github.com/kjBot-Dev) written in php.
 
