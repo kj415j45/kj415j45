@@ -8,13 +8,13 @@ I'd prefer to call me _kj415j45_ or _kj_ for shorter.
 My name in real life is _LiangXiang Shen_ or **申良湘** in Chinese.  
 I don't actually have a English name. But if you want, you can call me _Bruce_. My English teacher give me this name, but I haven't used it for a long time.
 
-I'm studying Animal Science(Food Science) in South West University (China). Learnt some programming when I was in middle school. php is my primary programming language, while C with STL as secondary.
+Currently working at [@guiyunbao](https://github.com/guiyunbao) .
 
 **Want to know more? Join my telegram channel [@kjMerge](https://t.me/kjMerge) now.**
 
 ## What have I done yet? 📝
 
-I have a toy-level project [kjBot](https://github.com/kjBot-Dev) written in php.
+I have a toy-level project [kjBot](https://github.com/kjBot-Dev) written in php and [maid-dart] library written in dart.
 
 Beyond that it's translating, especially for indie free softwares (or games). There's no much money for me to sponsor the developers, but helping them bring these to more users/players is the best I can do. It also improves my skill(s) and I'm enjoying this.
 
