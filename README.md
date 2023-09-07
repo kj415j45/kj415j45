@@ -22,6 +22,8 @@ Currently working at [@guiyunbao](https://github.com/guiyunbao) as Tech Lead.
 
 I have a toy-level project [kjBot](https://github.com/kjBot-Dev) written in php and [maid](https://pub.dev/packages/maid) library written in dart.
 
+Maintaining a [online log service](https://log.kj415j45.space).
+
 Set up full DevOps env (CI/CD) for my company.
 
 Beyond that it's translating, especially for indie free softwares (or games).
