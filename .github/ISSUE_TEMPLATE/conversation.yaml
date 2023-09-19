@@ -2,19 +2,11 @@ name: "New Conversation"
 labels: ["Conversation"]
 description: "You want to talk to me and don't mind sharing it with others."
 body:
-  - type: input
-    id: topic
-    attributes:
-      label: Topic
-      description: "What do you want to talk about?"
-      placeholder: "No title"
-    validations:
-      required: true
   - type: textarea
     id: detail
     attributes:
       label: Details
-      description: "What do you want to talk about?"
+      description: "Anything to add?"
       placeholder: "No details."
     validations:
       required: false
