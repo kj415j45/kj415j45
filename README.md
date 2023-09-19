@@ -1,16 +1,18 @@
 # Greeting 👋
 
-You must be interested in me, that's why you open my profile, don't you? So let me introduce myself.
+You must be interested in me, that's why you opened my profile, don't you? So let me introduce myself.
 
 ## Who am I? 🤷‍♂️
 
-I'd prefer to call me _kj415j45_ or _kj_ for shorter.  
+I'd prefer you to call me _kj415j45_ or _kj_ for shorter.  
 My name in real life is _LiangXiang Shen_ or **申良湘** in Chinese.  
-I don't actually have a English name. But if you want, you can use _Bruce_. My English teacher give me this name, but I haven't used it for a long time.
+I don't actually have an English name. But if you want, you can use _Bruce_. My English teacher gave me this name, but I haven't used it for a long time.
 
-Currently working at [@guiyunbao](https://github.com/guiyunbao) as Tech Lead.
+Leader of [@osu-translate-zh](https://github.com/osu-translate-zh). Currently working at [@guiyunbao](https://github.com/guiyunbao) as Tech Lead.
 
-**Follow my telegram channel [@kjMerge](https://t.me/kjMerge) and join the discussion group to communicate with me directly.**
+**You can also use [GitHub Issue](https://github.com/kj415j45/kj415j45/issues/new?assignees=&labels=Conversation&projects=&template=conversation.yaml) to have a public talk with me if you like. :)**
+
+Follow my Telegram channel [@kjMerge](https://t.me/kjMerge) and its group is ok too.
 
 ## Triumphs 🏆
 
@@ -20,20 +22,20 @@ Currently working at [@guiyunbao](https://github.com/guiyunbao) as Tech Lead.
 
 ## What have I done yet? 📝
 
-I have a toy-level project [kjBot](https://github.com/kjBot-Dev) written in php and [maid](https://pub.dev/packages/maid) library written in dart.
+I have made a chatbot [kjBot](https://github.com/kjBot-Dev) written in PHP and [maid](https://pub.dev/packages/maid) library written in Dart.
 
 Maintaining a [online log service](https://log.kj415j45.space).
 
-Set up full DevOps env (CI/CD) for my company.
+Set up full DevOps env (CI/CD) for @guiyunbao. 
 
-Beyond that it's translating, especially for indie free softwares (or games).
-Here's a list of softwares/games that I joined the translation team:
+Beyond that, it's translating, especially for indie-free software (or games).
+Here's a list of software/games that I joined the translation team:
 - 🎮[ppy - osu!](https://osu.ppy.sh/)
 - 🎮[Dan Vogt - DATA WING](http://www.danvogt.info/)
 - 🛠[João Paulo - Little Light](https://github.com/LittleLightForDestiny/littlelight)
 - 🛠[Tom Chapman - Braytech](https://braytech.org/)
 
-## Support me 💰
+## Sponsor me 💰
 
 Alipay: <img src="https://user-images.githubusercontent.com/18349191/76498749-7204ed00-6478-11ea-9a7f-95c77d100790.jpg" width="100" height="100" />  
 Stellar XLM: `kj415j45*keybase.io` or `GC2I2J3VMQ7EHUIZRUJFUV4FPIEU6EZOYJPQJ2KEEGEA5XL3IJGF43CQ`
