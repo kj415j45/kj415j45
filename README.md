@@ -10,7 +10,7 @@ I don't actually have an English name. But if you want, you can use _Bruce_. My 
 
 Leader of [@osu-translate-zh](https://github.com/osu-translate-zh). Currently working at [@guiyunbao](https://github.com/guiyunbao) as Tech Lead.
 
-**You can also use [GitHub Issue](https://github.com/kj415j45/kj415j45/issues/new?assignees=&labels=Conversation&projects=&template=conversation.yaml) to have a public talk with me if you like. :)**
+**You can also use [GitHub Issue](https://github.com/kj415j45/kj415j45/issues/new?template=conversation.yaml) to have a public talk with me if you like. :)**
 
 Follow my Telegram channel [@kjMerge](https://t.me/kjMerge) and its group is ok too.
 
