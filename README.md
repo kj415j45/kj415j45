@@ -26,7 +26,7 @@ I have made a chatbot [kjBot](https://github.com/kjBot-Dev) written in PHP and [
 
 Maintaining a [online log service](https://log.kj415j45.space).
 
-Set up full DevOps env (CI/CD) for @guiyunbao. 
+Set up full DevOps for @guiyunbao with feature project: [rabbit-hole](https://github.com/guiyunbao/rabbit-hole).
 
 Beyond that, it's translating, especially for indie-free software (or games).
 Here's a list of software/games that I joined the translation team:
