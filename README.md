@@ -33,7 +33,7 @@ Here's a list of software/games that I joined the translation team:
 - 🎮[ppy - osu!](https://osu.ppy.sh/)
 - 🎮[Dan Vogt - DATA WING](http://www.danvogt.info/)
 - 🛠[João Paulo - Little Light](https://github.com/LittleLightForDestiny/littlelight)
-- 🛠[Tom Chapman - Braytech](https://braytech.org/)
+- 🛠[Tom Chapman - Braytech](https://bray.tech/)
 
 ## Sponsor me 💰
 
