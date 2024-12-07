@@ -12,8 +12,6 @@ Leader of [@osu-translate-zh](https://github.com/osu-translate-zh). Currently wo
 
 **You can also use [GitHub Issue](https://github.com/kj415j45/kj415j45/issues/new?template=conversation.yaml) to have a public talk with me if you like. :)**
 
-Follow my Telegram channel [@kjMerge](https://t.me/kjMerge) and its group is ok too.
-
 ## Triumphs 🏆
 
 [![osu! Community Contributor 2017](https://github.com/ppy/osu-wiki/raw/master/wiki/shared/news/2017-12-24-community-contributors-2017/kj415j45.png)](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
