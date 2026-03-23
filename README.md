@@ -20,13 +20,13 @@ Leader of [@osu-translate-zh](https://github.com/osu-translate-zh). Currently wo
 
 ## What have I done yet? 📝
 
-I have made a chatbot [kjBot](https://github.com/kjBot-Dev) written in PHP and [maid](https://pub.dev/packages/maid) library written in Dart.
+I have made a chatbot [kjBot](https://github.com/kjBot-Dev) written in PHP.
 
-Maintaining a [online log service](https://log.kj415j45.space).
+Maintaining a [Genshin Impact Miliastra Wonderland tool](https://octavia.kj415j45.space) a [online log service](https://log.kj415j45.space).
 
 Set up full DevOps for @guiyunbao with feature project: [rabbit-hole](https://github.com/guiyunbao/rabbit-hole).
 
-Beyond that, it's translating, especially for indie-free software (or games).
+Beyond that, it's translating, especially for indie/free software (or games).
 Here's a list of software/games that I joined the translation team:
 - 🎮[ppy - osu!](https://osu.ppy.sh/)
 - 🎮[Dan Vogt - DATA WING](http://www.danvogt.info/)
