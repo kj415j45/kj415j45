@@ -16,13 +16,11 @@ Leader of [@osu-translate-zh](https://github.com/osu-translate-zh). Currently wo
 
 [![osu! Community Contributor 2017](https://github.com/ppy/osu-wiki/raw/master/wiki/shared/news/2017-12-24-community-contributors-2017/kj415j45.png)](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
 
-[![](https://github-profile-trophy.vercel.app/?username=kj415j45&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## What have I done yet? 📝
 
 I have made a chatbot [kjBot](https://github.com/kjBot-Dev) written in PHP.
 
-Maintaining a [Genshin Impact Miliastra Wonderland tool](https://octavia.kj415j45.space) a [online log service](https://log.kj415j45.space).
+Maintaining a [Genshin Impact Miliastra Wonderland tool](https://octavia.kj415j45.space) and a [online log service (useless, btw)](https://log.kj415j45.space).
 
 Set up full DevOps for @guiyunbao with feature project: [rabbit-hole](https://github.com/guiyunbao/rabbit-hole).
 
